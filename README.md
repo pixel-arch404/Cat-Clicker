@@ -40,7 +40,7 @@ No hace falta instalar nada: le das doble clic y se abre el juego.
 | F9 o Shift+R | Reiniciar la partida (te pide escribir una palabra para no hacerlo sin querer) |
 | F11 | Pantalla completa |
 
-En el móvil sale un joystick en pantalla para moverte en los combates.
+En el móvil salen unas flechas abajo, una cruceta a cada lado, para moverte en los combates.
 
 La partida se guarda sola.
 
