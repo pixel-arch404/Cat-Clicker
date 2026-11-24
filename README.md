@@ -36,7 +36,6 @@ No hace falta instalar nada: le das doble clic y se abre el juego.
 | Clic o barra espaciadora | Acariciar al gato |
 | Flechas o WASD | Mover el corazón en los combates |
 | Z, Enter o clic | Confirmar en los combates |
-| F8 | Panel de desarrollador (con el botón 💪 SUPER OP) |
 | F9 o Shift+R | Reiniciar la partida (te pide escribir una palabra para no hacerlo sin querer) |
 | F11 | Pantalla completa |
 
